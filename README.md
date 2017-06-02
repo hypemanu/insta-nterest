@@ -7,3 +7,8 @@ When you post a photo or video on Instagram, it will be displayed on your profil
 
 ## IMAGE
 ![Image of Instagram icon](https://www.sketchappsources.com/resources/source-image/instagram-ios-template-stevejones.jpg)
+#### What you can do on Instagram 
+- - - Follow people
+- - - Connect and share moments
+- - - Enjoy vidoes posted by other accounts
+- - - Upload videos and pictures.
