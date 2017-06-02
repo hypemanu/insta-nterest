@@ -12,3 +12,14 @@ When you post a photo or video on Instagram, it will be displayed on your profil
 - - - Connect and share moments
 - - - Enjoy vidoes posted by other accounts
 - - - Upload videos and pictures.
+
+
+## Categories
+The Instagram accounts may be grouped into:
+:bowtie: Official
+
+:small_red_triangle_down: Coding and programming
+
+:small_red_triangle_down: General overlooks
+
+Icons have been retrieved from the [Github Emoji Cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
